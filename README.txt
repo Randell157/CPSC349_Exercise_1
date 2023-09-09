@@ -1,1 +1,1 @@
-This is Exercise 1 of CPSC 349 for Randell Lapid
+Exercise 1 of CPSC 349 for Randell Lapid
